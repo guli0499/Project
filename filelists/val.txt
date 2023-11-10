@@ -1,0 +1,2 @@
+./dataset/44k/speaker1/TestSpeaker (475).wav
+./dataset/44k/speaker1/TestSpeaker (61).wav
