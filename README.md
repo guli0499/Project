@@ -21,3 +21,4 @@ Launching the Web GUI
 ```
 python webUI.py
 ```
+The training was eventually completed, but the results were unsatisfactory and the clutter was heavy. It could be a parameter setting problem.
