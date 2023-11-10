@@ -1,4 +1,5 @@
 # Project
+dataset, pretrain model and else:https://drive.google.com/drive/folders/1rGjlqPWn28hiGniy4DEGdOrPOWXIdqGB?usp=drive_link
 Preparing the dataset  
 Resampling to 44100Hz Mono  
 ```
